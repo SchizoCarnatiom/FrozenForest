@@ -72,5 +72,5 @@
 [Discord]: https://discord.com/channels/391020510269669376/1530380698811240498
 [QQ]: 点击链接加入群聊【Mindustry-FrozenForest 模组群】：https://qun.qq.com/universal-share/share?ac=1&authKey=AqXBKX%2B3RqRpGozOgi%2FF9Pm%2FP4TgZzXfJ2G7%2BRyF4%2BwNzfgJcRlNH69l5Pne7SvG&busi_data=eyJncm91cENvZGUiOiIxMDU3MTI5OTg1IiwidG9rZW4iOiJaZjJINkJYV01KNWpESUpuUE9QRVRzT2tzWDU4N1BzdjJPTExMbzNtNEtwMnJFdUNEcXFXb2dkYk1Jek5CNC9EIiwidWluIjoiMjU3OTc2ODc2NCJ9&data=L2fhLi9qdS2QDqCvUcutRIZ2arktefiPD7vMiI0UnMQPvXx0N1lda4d5F0b6gehpKz3AXeR79ltEUn9okhPwAw&svctype=4&tempid=h5_group_info
 [Issues]: https://github.com/users/SchizoCarnatiom/projects/1/views/1/issues
-[Logo]: github/logo.png
-[Banner]: github/banner.png
+[Logo]: logo.png
+[Banner]: banner.png
